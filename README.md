@@ -2,9 +2,9 @@
 Originally graduated as a Law, I believe in the power of research and comunication for problem solving and change our lives!
 
 
-- 👀 I’m always interested in everything. Maybe because I'm a curious person!;
+- 👀 I’m always interested in everything. Maybe because I'm a curious person!
 - 🌱 I’m currently learning Python language and AI;
-- 💞️ I’m looking to collaborate on expansion of tehnology to solve problems and world conquering;
+- 💞️ I’m looking to collaborate on expansion of technology to solve problems and world conquering;
 - 📫 How to reach me: kamilasalkini@hotmail.com  
 
 <!---

@@ -1,5 +1,5 @@
-- 👋 Hi, My name is Kamila Salkini, I'm a brazilian Data Scientist learner in love with Machine Learning and all sorts of AI applications.
-Originally graduated as a Law, I believe in the power of research and comunication for problem solving and change our lives world!
+- 👋 Hi, My name is Kamila Salkini, I'm a brazilian Data Science learner in love with Machine Learning and all sorts of AI applications.
+Originally graduated as a Law, I believe in the power of research and comunication for problem solving and change our lives!
 
 
 - 👀 I’m always interested in everything. Maybe because I'm a curious person!;
